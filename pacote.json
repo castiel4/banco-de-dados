@@ -1,0 +1,12 @@
+{
+    "nome" : " banco-de-dados " ,
+    "versão" : " 1.0.0 " ,
+    "descrição" : " " ,
+    "principal" : " apli.js " ,
+    "scripts" : {
+      "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "
+    },
+    "palavras-chave" : [],
+    "autor" : " " ,
+    "licença" : " ISC "
+  }
